@@ -5,7 +5,7 @@ IT/Cybersecurity student at the University of North Alabama
 -----------------------------------------------------------
 
 * 🌍  I'm based in North Alabama
-* ✉️  You can contact me at [carson.kerr04@gmail.com](mailto:carson.kerr04@gmail.com)
+* ✉️  You can contact me at [carson.kerr04@gmail.com](mailto:carson.kerr04@gmail.com) or [ckerr3@una.edu](mailto:ckerr3@una.edu)
 
 ### Skills
 
