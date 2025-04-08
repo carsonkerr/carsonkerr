@@ -1,4 +1,4 @@
-Hi 👋 My name is Carson Kerr
+Hi my name is Carson Kerr
 ============================
 
 IT/Cybersecurity Student at the University of North Alabama
