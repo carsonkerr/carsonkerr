@@ -4,6 +4,9 @@ Hi 👋 My name is Carson Kerr
 IT/Cybersecurity Student at the University of North Alabama
 -----------------------------------------------------------
 
+![IMG_3915](https://github.com/user-attachments/assets/ed5e1608-9613-46e8-a7a8-c8367d7dabf7)
+
+
 * 🌍  I'm based in North Alabama
 * ✉️  You can contact me at [carson.kerr04@gmail.com](mailto:carson.kerr04@gmail.com) or [ckerr3@una.edu](mailto:ckerr3@una.edu)
 * ⚡  Check out my Dev Easy project for my Web Development Class at https://github.com/carsonkerr/dev-easy-group-project
